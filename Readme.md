@@ -5,6 +5,7 @@ based on Striver’s A2Z DSA Sheet.
 
 ### Language
 - C++
+- JAVA
 
 ### Topics
 - Arrays
